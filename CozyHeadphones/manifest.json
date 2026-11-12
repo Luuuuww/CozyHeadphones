@@ -1,0 +1,9 @@
+{
+  "Name": "Cozy Headphones",
+  "Author": "Luuuuuw_",
+  "Version": "0.1.0",
+  "Description": "Auriculares fabricables para escuchar música.",
+  "UniqueID": "CozyHeadphones.Main",
+  "EntryDll": "CozyHeadphones.dll",
+  "MinimumApiVersion": "4.0.0"
+}
